@@ -1,7 +1,9 @@
 # USTB-miniPaper
-北京科技大学计通学院大学相关课程报告汇总[Summary of University-related Course Report of Beijing University of Science and Technology]
+北京科技大学计算机与通信工程学院大学相关课程报告汇总[Summary of University-related Course Report of Beijing University of Science and Technology]
 
-##### 个人北京科技大学本科时期的大作业和一些课程设计的报告汇总，可作为参考借鉴，杜绝原封不动的抄袭
+#### 个人北京科技大学本科时期的大作业和一些课程设计的报告汇总，可作为参考借鉴，杜绝原封不动的抄袭！！！
+
+本仓库包含本人就读北京科技大学通信工程专业本科四年所学课程所有报告及设计代码，仅供参考！
 
 **通识课：**
 + 工科数学分析（高等数学）
@@ -17,7 +19,7 @@
 
 **专业课：**
 + [离散数学](https://github.com/JackHCC/Dijkstra-bjSubway)
--   [离散数学扩展](https://github.com/JackHCC/GUI-bjSubway)
+  - [离散数学扩展](https://github.com/JackHCC/GUI-bjSubway)
 + 移动通信
 + [DSP原理及应用](https://github.com/JackHCC/DSP-for-Conv-and-FFT)
 + [信号处理与系统设计实验](https://github.com/JackHCC/Assignment-for-DSP-Experiment)
@@ -36,12 +38,12 @@
 + 通信网理论
 + 通信电子电路
 + [Python程序设计](https://github.com/JackHCC/Photo-Edit)
--   Python设计作业：
--   [照片墙设计](https://github.com/JackHCC/SlideShow)
--   [消消乐小游戏](https://github.com/JackHCC/Elimination-Game)
--   [关键词全网图片爬虫](https://github.com/JackHCC/KeyWord-Crawler)
--   [Turtle画一只会眨眼的皮卡丘](https://github.com/JackHCC/Draw-Pikaqiu)
--   [中文小说词频统计](https://github.com/JackHCC/Word-Counting)
+  + Python设计作业：
+  -   [照片墙设计](https://github.com/JackHCC/SlideShow)
+  -   [消消乐小游戏](https://github.com/JackHCC/Elimination-Game)
+  -   [关键词全网图片爬虫](https://github.com/JackHCC/KeyWord-Crawler)
+  -   [Turtle画一只会眨眼的皮卡丘](https://github.com/JackHCC/Draw-Pikaqiu)
+  -   [中文小说词频统计](https://github.com/JackHCC/Word-Counting)
 
 **公共选修课：**
 + 博弈论
