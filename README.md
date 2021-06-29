@@ -7,7 +7,7 @@
 
 **通识课：**
 + 工科数学分析（高等数学）
-+ 程序设计基础（C++）
++ [程序设计基础（C++）](https://github.com/JackHCC/miniGame)
 + 大学生心理健康
 + 大学生职业生涯规划
 + 形式与政策
@@ -38,7 +38,6 @@
 + 通信网理论
 + 通信电子电路
 + [Python程序设计](https://github.com/JackHCC/Photo-Edit)
-  Python设计作业：
   -   [照片墙设计](https://github.com/JackHCC/SlideShow)
   -   [消消乐小游戏](https://github.com/JackHCC/Elimination-Game)
   -   [关键词全网图片爬虫](https://github.com/JackHCC/KeyWord-Crawler)
@@ -55,6 +54,10 @@
 **其他：**
 + [本科毕业设计：基于车辆轨迹时空数据的城市热点预测模型研究](https://github.com/JackHCC/Graduation-Design)
 
-
+更多内容参考:
++ [Github主页](https://github.com/JackHCC)
++ [博客主页](https://blog.creativecc.cn/)
++ [CSDN](https://blog.csdn.net/qq_43042024?spm=1010.2135.3001.5421)
++ [简书](https://www.jianshu.com/u/f4a500314f23)
 
 © 北京科技大学 胡成成
