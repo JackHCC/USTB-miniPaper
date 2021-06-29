@@ -1,6 +1,42 @@
 # USTB-miniPaper
-北京科技大学计通学院大学相关课程报告汇总（更新中）[Summary of University-related Course Report of Beijing University of Science and Technology]
+北京科技大学计通学院大学相关课程报告汇总[Summary of University-related Course Report of Beijing University of Science and Technology]
 
 ##### 个人北京科技大学本科时期的大作业和一些课程设计的报告汇总，可作为参考借鉴，杜绝原封不动的抄袭
+
+**通识课：**
++ 工科数学分析（高等数学）
++ 程序设计基础（C++）
++ 大学生心理健康
++ 大学生职业生涯规划
++ 形式与政策
++ 思修
++ 毛概
++ 近代史
++ 马原
++ 数学实验（Matlab）
+**专业课：**
++ 移动通信
++ DSP原理及应用
++ 信号处理与系统设计实验
++ 数据库技术与应用
++ 光纤通信
++ 工程导论
++ 数字信号处理
++ 数据科学
++ 物联网技术
++ 现代交换技术
++ 移动通信网络实验
++ 计算机网络
++ 通信原理
++ 通信导论
++ 通信工程设计与实践
++ 通信网理论
++ 通信电子电路
+**公共选修课：**
++ 博弈论
++ 中国现当代文学思潮
++ 电子信息材料
++ 科技文献检索
++ 国家安全与国家战略
 
 © 北京科技大学 胡成成
