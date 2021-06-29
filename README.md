@@ -38,7 +38,7 @@
 + 通信网理论
 + 通信电子电路
 + [Python程序设计](https://github.com/JackHCC/Photo-Edit)
-  + Python设计作业：
+  Python设计作业：
   -   [照片墙设计](https://github.com/JackHCC/SlideShow)
   -   [消消乐小游戏](https://github.com/JackHCC/Elimination-Game)
   -   [关键词全网图片爬虫](https://github.com/JackHCC/KeyWord-Crawler)
